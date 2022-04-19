@@ -1,1 +1,1 @@
-{"base": "8f214a2", "parent": "debian/rolling/lanelet2_python", "previous": "75074b2", "trim": "", "trimbase": ""}
+{"base": "1eb3076", "parent": "debian/humble/lanelet2_python", "previous": "7e12beb", "trim": "", "trimbase": ""}
